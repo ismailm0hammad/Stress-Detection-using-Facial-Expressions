@@ -9,7 +9,6 @@ This project aims to detect stress levels based on facial expressions using a de
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -102,14 +101,6 @@ Once the application is running, it will capture the video feed from your webcam
 
 ### Emotion Classification
 The detected emotion is displayed on the video feed above the bounding box for each face.
-
-## Screenshots
-
-<p align="center">
-  <img src="Screenshots/happy.png" alt="Happy" width="45%">
-  <img src="Screenshots/sad.png" alt="Stress" width="45%">
-</p>
-
 
 
 ## Contributing
